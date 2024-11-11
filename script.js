@@ -108,5 +108,9 @@ products.forEach((product) => {
 
     productElements.push(productElement);
     productsWrapper.appendChild(productElement);
+});
 
-})
+//Create product element
+// function createProductElement() => ({
+
+// });
